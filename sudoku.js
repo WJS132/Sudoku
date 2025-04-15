@@ -1,3 +1,4 @@
+alert("Próbowałem zrobić całe sudoku od 0 - generowanie planszy spełniającej warunki sudoku, następnie usunięcie danej ilości pól tak, aby plansza miała tylko jedno rozwiązanie, a na koniec nadanie funckjonalności. Projekt mnie przerósł, funkcje są niepotrzebnie przekombinowane, a kod nie zawsze działa tak jak chcę. Rezygnuje z kontynuacji, ponieważ dużo lepiej będzie posłużyc się bibliotekami które generują plansze sudoku wg. konkretnych wymagań, a samemu nadac całej grze funkcjinalność.");
 const board = document.querySelector(".board");
 let tablica = [];
 let liczby = [1, 2, 3, 4, 5, 6, 7, 8, 9];
